@@ -1,0 +1,8 @@
+bundle:
+  name: customer360-bundle
+
+targets:
+  dev:
+    workspace:
+      host: https://8259550742932689.9.gcp.databricks.com
+      root_path: /Workspace/Users/sathish/customer360
